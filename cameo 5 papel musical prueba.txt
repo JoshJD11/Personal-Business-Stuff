@@ -1,0 +1,6 @@
+COMO CORTAR UNA PARTITURA PARA CAJA MUSICAL CON MECANISMO DE PAPEL EN CAMEO 5 
+presion 35
+profundidad 5
+velocidad 3
+hoja usada opalina 225g, opcion correcta pero podria ser mas duro
+0.6 mm de borde interno para el rectangulo que contiene los puntos, hacer esto en sillouette studio, Tambien, se agrego 0.2 mm se desplazamiento exterior para los circulos.
